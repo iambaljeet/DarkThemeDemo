@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DarkThemeDemo</string>
+    <string name="theme_type">Light Theme Enabled</string>
+</resources>
