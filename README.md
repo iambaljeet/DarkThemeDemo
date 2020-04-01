@@ -7,5 +7,3 @@ Demo for showing how to implement Dark Theme in Android.
 
 1. Clone Repository using 'https://github.com/iambaljeet/DarkThemeDemo.git'
 2. Goto File >> Import Project >> DarkThemeDemo
-
-## License
